@@ -70,7 +70,6 @@ snake-game/
 
 ## 🚀 Future Improvements
 
-* Save the highest score
 * Add sound effects
 * Multiple difficulty levels
 * Pause/Resume functionality
